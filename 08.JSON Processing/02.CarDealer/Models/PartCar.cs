@@ -1,0 +1,17 @@
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace CarDealer.Models
+{
+    public class PartCar
+    {
+        public int PartId { get; set; }
+
+        [ForeignKey(nameof(PartId))]
+        public virtual Part Part { get; set; } = null!; 
+
+        public int CarId { get; set; }
+
+        [ForeignKey(nameof(CarId))]
+        public virtual Car Car { get; set; } = null!; 
+    }
+}
