@@ -1,0 +1,14 @@
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\bin\Debug\net6.0\EventMe.Infrastructure.deps.json
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\bin\Debug\net6.0\EventMe.Infrastructure.runtimeconfig.json
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\bin\Debug\net6.0\EventMe.Infrastructure.dll
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\bin\Debug\net6.0\EventMe.Infrastructure.pdb
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\EventMe.Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\EventMe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\EventMe.Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\EventMe.Infrastructure.AssemblyInfo.cs
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\EventMe.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\EventMe.Infrastructure.dll
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\refint\EventMe.Infrastructure.dll
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\EventMe.Infrastructure.pdb
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\EventMe.Infrastructure.genruntimeconfig.cache
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Infrastructure\obj\Debug\net6.0\ref\EventMe.Infrastructure.dll

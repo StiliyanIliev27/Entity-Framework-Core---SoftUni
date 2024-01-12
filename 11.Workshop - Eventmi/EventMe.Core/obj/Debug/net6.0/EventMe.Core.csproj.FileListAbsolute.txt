@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\bin\Debug\net6.0\EventMe.Core.deps.json
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\bin\Debug\net6.0\EventMe.Core.dll
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\bin\Debug\net6.0\EventMe.Core.pdb
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\bin\Debug\net6.0\EventMe.Infrastructure.dll
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\bin\Debug\net6.0\EventMe.Infrastructure.pdb
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\EventMe.Core.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\EventMe.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\EventMe.Core.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\EventMe.Core.AssemblyInfo.cs
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\EventMe.Core.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\EventMe.Core.csproj.CopyComplete
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\EventMe.Core.dll
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\refint\EventMe.Core.dll
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\EventMe.Core.pdb
+D:\Programming\SoftUni\CSharpEntityFrameworkCore_2023\11.Workshop - Eventmi\EventMe.Core\obj\Debug\net6.0\ref\EventMe.Core.dll
